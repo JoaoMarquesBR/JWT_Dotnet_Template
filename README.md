@@ -2,12 +2,12 @@
 
 This repository serves as a simple demonstration of how to implement JWT (JSON Web Tokens) for authentication and authorization, including user roles. It provides a practical example to help you understand and integrate JWT into your own projects.
 
-##Prerequisites
+# Prerequisites
 Before you proceed, ensure you have the following installed:
 
 .NET 7 SDK or a compatible version
 
-##Usage
+# Usage
 
 - Clone the repository to your local machine.
 - Open the JWT_Authentication project in your preferred development environment.
