@@ -13,7 +13,9 @@ Before you proceed, ensure you have the following installed:
 - Open the JWT_Authentication project in your preferred development environment.
 - Navigate to the UserRepository.cs file to see how users are being created and inserted in memory.
 - The following users have been added as sample data:
-- Username: robert, Password: robertPassword, Role: admin;
-- Username: gabriel, Password: gabrielPassword, Role: developer;
-- Username: amanda, Password: amandaPassword, Role: manager;
-}
+  
+  | Username | Password       | Role      |
+  |----------|----------------|-----------|
+  | robert   | robertPassword | admin     |
+  | gabriel  | gabrielPassword| developer |
+  | amanda   | amandaPassword | manager   |
